@@ -1,0 +1,35 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+.container {
+    font-size: 18px;
+    max-width: 25em;
+    margin: 0 auto;
+    padding: 80px 20px 20px 0;
+}
+
+p a, p a:visited {
+    color: #ff5999;
+    text-decoration: none;
+}
+
+p a:hover {
+    border-bottom: 1px #88d0df dotted;
+}
+
+footer {
+    padding-top: 5em;
+    font-size: 18px;
+    text-align: center;
+}
+
+footer a, footer a:visited {
+    color: gray;
+}
+
+footer a:hover {
+    color: #000;
+}
